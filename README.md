@@ -36,7 +36,7 @@ Now, connect Ganache's development environment to your metamask extension by cop
 Upon login, click on the "Main Network" tab of metamask and click on "Custom RPC", where you'll be taken to a page. 
 Where it prompts you "New RPC URL", paste "http://127.0.0.1:7545" and click save.
 
-You'll now notice that network has been named "Private Network" and that your metamask account has a little less of 100Eths
+You'll now notice that network has been named "Private Network" and that your metamask account has a little less than 100Eths
 (note, this money is fake :P).
 
 
